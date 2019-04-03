@@ -14,7 +14,7 @@ Download the lernOS Guide and additional material below and get started now! If 
 The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
 [@simondueckert](https://twitter.com/simondueckert)
 
-# Downloads
+# lernOS Resources
 The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos). From version 1.2 onwards ZIP files for DE and EN are the same.
 
 | Language | EN | DE |
@@ -23,36 +23,15 @@ The lernOS content can be downloaded in different formats and languages. All the
 | Version 1.1 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54411) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54408) (16 MB) |
 | Version 1.0 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54618) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54621) (17 MB) |
 
-# Events & Webcasts
+# lernOS Events
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
 
+* **2019-06-26:** 1st lernOS Rockstars Camp in Munich/Germany. Infos and Tickets at [cogneon.de/loscamp](https://cogneon.de/loscamp)
 * **2019-03-28 (03:30-04:15PM CET):** lOScast 05 - lernOS Version 1.2 Release as Session (in German) at the Corporate Learning Camp ([Recording](https://www.youtube.com/watch?v=vrxdVwMOx7A), [Slides](https://media.cogneon.de/index.php/s/mMjw2aiMfFziD8Z/download))
 * **2018-12-17:** lOScast 04 - lernOS Version 1.1 Release ([Recording](https://youtu.be/mlY9BvqPnVs), [Slides](https://media.cogneon.de/index.php/s/yK8DdMh5GcoFtkB/download))
 * **2018-09-17:** lOScast 03 - lernOS Version 1.0 Release ([Recording](https://youtu.be/qD8cLcl8g3s), [Slides](https://media.cogneon.de/index.php/s/mfIh53jmYidgskZ/download))
 * **2018-08-13:** lOScast 02 - How to use Microsoft OneNote as a Tool in a Circle ([Recording](https://www.youtube.com/watch?v=C4bpt4EJKFs), [Slides](https://media.cogneon.de/index.php/s/o7pyN23fmjXniLO/download), [Chat Protocol](https://media.cogneon.de/index.php/s/iUSvkhlDJc0MOkU/download))
 * **2018-07-09:** lOScast 01 - How to use the lernOS Canvas as a Tool in Working Out Loud Circles ([Recording](https://www.youtube.com/watch?v=7a1Vq7ism5Y), [Slides](https://media.cogneon.de/index.php/s/j2CZijvAJm1t1so/download))
-
-# Release Notes
-**1.2** ([Feedback/discussion on CONNECT](https://community.cogneon.de/t/lernos-guide-for-you-version-1-2-release-notes/1016/3))
-* Guideline renamed to „lernOS Guide for You“
-* lernOS logo added to cover page
-* Telegram User Group replaced by CONNECT
-* Mobi version (Amazon) added to output formats
-* Generation of all output files via make.bat
-* Table of Contents (TOC) added to html version
-
-**1.1**
-* Renaming of lernOS Sprint/Circle, now Learning Sprint/Circle
-* Objective & Key Results (OKR) as default method for learning sprints
-* Introduction of learning paths for modularization of learning objectives/contents in a sprint (replaces "styles")
-* Introduction of the NOOB learning path with reduced kata set (11 katas)
-* MOBI added as eBook format (for Amazon Kindle app and devices) 
-
-**1.0.1**
-* Acknowledgement chapter added
-
-**1.0**
-* First Version of the lernOS Guide
 
 # Frequently Asked Questions (FAQ)
 ## Where do I find the PDF, WORD, HTML etc. files?
