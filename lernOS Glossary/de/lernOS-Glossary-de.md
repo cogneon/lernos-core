@@ -1,6 +1,6 @@
 # L
 * **Lernen:**
-* **Lernende Organisation:
+* **Lernende Organisation:**
 * **Lernzirkel:**
 
 # O
