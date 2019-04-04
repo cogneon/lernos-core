@@ -38,6 +38,7 @@
 ## S
 * **Selbstgesteuertes Lernen:**
 * Selbstorganisation
+* Sinn:
 * Skillset
 * Sprint:
 
@@ -45,6 +46,7 @@
 * Toolset
 
 ## V
+* Vision
 * VUCA
 
 ## W
