@@ -1,7 +1,11 @@
-# G
+# lernOS Glossar
+## G
 * Getting Things Done
-# L
-* Lebenslanges L
+
+## I
+* Informelles Lernen
+## L
+* Lebenslanges Lernen
 * **Lernen:**
 * **Lernende Organisation:**
 * lernOS
@@ -9,16 +13,16 @@
 * Lernsprint
 * **Lernzirkel:**
 
-# O
+## O
 * **Organisation:**
 
-# S
+## S
 * **Selbstgesteuertes Lernen:**
 * Sprint:
 
-# W
+## W
 * **Wissen:**
 * Working Out Loud
 
-# Z
+## Z
 * Ziel
