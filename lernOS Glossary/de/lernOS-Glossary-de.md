@@ -1,6 +1,7 @@
 # G
 * Getting Things Done
 # L
+* Lebenslanges L
 * **Lernen:**
 * **Lernende Organisation:**
 * lernOS
