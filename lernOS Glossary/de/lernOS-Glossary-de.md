@@ -12,8 +12,8 @@
 * Informelles Lernen
 
 ## L
-* Lebenslanges Lernen
-* **Lernen:**<br/>Lernen ist der absichtliche oder beiläufige Erwerb von Wissen und Fähigkeiten. Lernen führt zu einer Veränderung des Verhaltens, Denkens oder Fühlens auf Basis neuer Erfahrungen oder Einsichten.
+* **Lebenslanges Lernen**<br/>Lebenslanges Lernen bezeichnet alles Lernen während des gesamten Lebens, das der Verbesserung von Wissen, Qua- lifikationen und Kompetenzen dient und im Rahmen einer persönlichen, bürgergesell- schaftlichen, sozialen, bzw. beschäftigungsbezogenen Perspektive erfolgt (Quelle: Europäische Kommission, 2001).
+* **Lernen**<br/>Lernen ist der absichtliche oder beiläufige Erwerb von Wissen und Fähigkeiten. Lernen führt zu einer Veränderung des Verhaltens, Denkens oder Fühlens auf Basis neuer Erfahrungen oder Einsichten.
 * **Lernende Organisation:**
 * lernOS
 * lernOS Canvas
