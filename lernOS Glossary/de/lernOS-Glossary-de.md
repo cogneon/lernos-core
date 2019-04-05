@@ -13,7 +13,7 @@
 
 ## L
 * Lebenslanges Lernen
-* **Lernen:**
+* **Lernen:**<br/>Lernen ist der absichtliche oder beiläufige Erwerb von Wissen und Fähigkeiten. Lernen führt zu einer Veränderung des Verhaltens, Denkens oder Fühlens auf Basis neuer Erfahrungen oder Einsichten.
 * **Lernende Organisation:**
 * lernOS
 * lernOS Canvas
