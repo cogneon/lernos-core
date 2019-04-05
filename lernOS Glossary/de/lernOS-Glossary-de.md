@@ -4,12 +4,14 @@
 
 ## F
 * Formale Organisation
+* **Formales Lernen**<br/>Formales Lernen ist das Lernen, das üblicherweise in einer Bildungs- oder Ausbildungseinrichtung stattfindet, in Bezug auf Lernziele, Lernzeit oder Lernförderung strukturiert ist und zur Zertifizierung führt. Formales Lernen ist aus der Sicht des Lernenden zielgerichtet (Europäische Kommission, 2001).
+
 ## G
 * Getting Things Done (GTD)
 
 ## I
 * Informale Organisation
-* Informelles Lernen
+* **Informelles Lernen**<br/>Informelles Lernen ist das Lernen, das im Alltag, am Arbeitsplatz, im Familienkreis oder in der Freizeit stattfindet. Es ist in Bezug auf Lernziele, Lernzeit oder Lernförderung nicht strukturiert und führt üblicherweise nicht zur Zertifizierung. Informelles Lernen kann zielgerichtet sein, ist jedoch in den meisten Fällen nichtintentional beiläufig (Europäische Kommission, 2001)
 
 ## L
 * **Lebenslanges Lernen**<br/>Lebenslanges Lernen bezeichnet alles Lernen während des gesamten Lebens, das der Verbesserung von Wissen, Qualifikationen und Kompetenzen dient und im Rahmen einer persönlichen, bürgergesell- schaftlichen, sozialen, bzw. beschäftigungsbezogenen Perspektive erfolgt (Europäische Kommission, 2001).
