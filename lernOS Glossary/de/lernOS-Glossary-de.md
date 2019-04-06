@@ -32,7 +32,7 @@
 * **Lernzirkel**
 
 ## M
-* **Management**
+* **Management**<br/>Management ist die Koordination der Aktivitäten in einer Organisation mit dem Zweck, die Ziele der Organisation zu erreichen.
 * **Mindset**
 
 ## O
