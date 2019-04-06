@@ -6,6 +6,7 @@
 * Formale Organisation
 * **Formales Lernen**<br/>Formales Lernen ist das Lernen, das üblicherweise in einer Bildungs- oder Ausbildungseinrichtung stattfindet, in Bezug auf Lernziele, Lernzeit oder Lernförderung strukturiert ist und zur Zertifizierung führt. Formales Lernen ist aus der Sicht des Lernenden zielgerichtet (Europäische Kommission, 2001).
 * **Führung**
+* **Führungsstil**
 
 ## G
 * Getting Things Done (GTD)
@@ -17,6 +18,7 @@
 ## K
 * **Kollaboration**<br/>Kollaboration ist die Zusammenarbeit von Personen oder Gruppen von Personen (Wikipedia).
 * **Kommunikation**<br/>Kommunikation ist der Austausch oder die Übertragung von Informationen, die auf verschiedenen Arten (verbal, nonverbal) oder verschiedenen Wegen (Sprechen, Schreiben) stattfinden kann (Wikipedia).
+* **Kompetenz**
 
 ## L
 * **Lebenslanges Lernen**<br/>Lebenslanges Lernen bezeichnet alles Lernen während des gesamten Lebens, das der Verbesserung von Wissen, Qualifikationen und Kompetenzen dient und im Rahmen einer persönlichen, bürgergesell- schaftlichen, sozialen, bzw. beschäftigungsbezogenen Perspektive erfolgt (Europäische Kommission, 2001).
