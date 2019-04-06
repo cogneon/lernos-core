@@ -34,6 +34,7 @@
 ## M
 * **Management**<br/>Management ist die Koordination der Aktivitäten in einer Organisation mit dem Zweck, die Ziele der Organisation zu erreichen.
 * **Mindset**
+* **Mission**<br/>Die Mission beschreibt, was die Organisation im Tagesgeschäft tut oder tun wird (Business Motivation Model).
 
 ## O
 * **Objectives & Key Results (OKR)**
@@ -52,13 +53,15 @@
 * **Sinn**
 * **Skillset**
 * **Sprint**
+* **Strategie**
 
 ## T
 * **Toolset**
 
 ## V
-* **Vision**
+* **Vision**<br/>Die Vision beschreibt den zukünftigen Zustand einer Organisation und ihrer Umwelt, unabhängig davon, wie diesser erreicht wird (Business Motivation Model).
 * **VUCA**
+Die Abkürzung steht für volatility, uncertainty, complexity und ambiguity.
 
 ## W
 * **Wissen**
