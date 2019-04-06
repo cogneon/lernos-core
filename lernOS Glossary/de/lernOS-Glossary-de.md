@@ -5,7 +5,7 @@
 ## F
 * **Formale Organisation**
 * **Formales Lernen**<br/>Formales Lernen ist das Lernen, das üblicherweise in einer Bildungs- oder Ausbildungseinrichtung stattfindet, in Bezug auf Lernziele, Lernzeit oder Lernförderung strukturiert ist und zur Zertifizierung führt. Formales Lernen ist aus der Sicht des Lernenden zielgerichtet (Europäische Kommission, 2001).
-* **Führung**
+* **Führung** Führung ist die Tätigkeit, „geführte“ Menschen für gesetzten Ziele zu motivieren und auf den Weg der Erfüllung der Ziele für den gemeinsamen Erfolg mitzunehmen.
 * **Führungsstil**
 
 ## G
