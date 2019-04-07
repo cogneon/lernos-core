@@ -6,6 +6,7 @@
 * **Formale Organisation**
 * **Formales Lernen**<br/>Formales Lernen ist das Lernen, das üblicherweise in einer Bildungs- oder Ausbildungseinrichtung stattfindet, in Bezug auf Lernziele, Lernzeit oder Lernförderung strukturiert ist und zur Zertifizierung führt. Formales Lernen ist aus der Sicht des Lernenden zielgerichtet (Europäische Kommission, 2001).
 * **Führung** Führung ist die Tätigkeit, Menschen für gesetzte Ziele zu motivieren und auf den Weg der Erfüllung der Ziele für den gemeinsamen Erfolg mitzunehmen.
+* **Führungskraft**<br/>Eine Führungskraft ist eine Person in einer Organisation, die mit Aufgaben der Personalführung betraut ist.
 * **Führungsstil**<br/>Der Führungsstil bezeichnet das langfristig stabile und von der Situation unabhängige Verhalten einer Führungskraft gegenüber Mitarbeitern. Zu den klassischen Führungsstilen nach Levin gehören autoritäre Führung, demokratische Führung und Laissez-faire Führung.
 
 ## G
