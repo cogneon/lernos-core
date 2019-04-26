@@ -3,7 +3,7 @@
 * **Aufgabe**
 
 ## E
-* **E-Portfolio**<br/>E-Portfolios sind strukturierte digitale Informationssammlungen, die Lernziele und -prozesse im lebenslangen Lernen unterstützen und dabei erworbenes Wissen und erworbene Fähigkeiten veranschaulichen.
+* **E-Portfolio**<br/>Ein E-Portfolio ist eine persönliche, strukturierte und digitale Informationssammlung, die Lernziele und -prozesse im lebenslangen Lernen unterstützt und dabei erworbenes Wissen und Fähigkeiten veranschaulicht.
 
 ## F
 * **Formale Organisation**
