@@ -44,7 +44,7 @@
 
 ## O
 * **Objectives & Key Results (OKR)**
-* **Organisation**<br/>person or group of people that has its own functions with responsibilities, authorities and relationships to achieve its objectives (ISO 9001:2015).
+* **Organisation**<br/>Eine Organisation besteht aus einer oder oder mehreren Personen (Organisationsmitglieder), die ein gemeinsamer Zweck verbindet und die sich zur Zeckerreichung eine formale Organisationsstruktur geben.
 
 ## P
 * **Projekt**
