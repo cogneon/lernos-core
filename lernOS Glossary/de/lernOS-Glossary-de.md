@@ -1,6 +1,7 @@
 # lernOS Glossar
 ## A
 * **Aufgabe**
+* **Arbeitsumgebung**<br/>Nach DIN 33400 ist die Arbeitsumgebung eines Arbeitssystems „das räumliche Umfeld, von dem vor allem physikalische und chemische, aber auch unter anderem biologische (z. B. bakteriologische) Einflüsse auf den Menschen einwirken“. Hierbei wirken Mensch und Arbeitsmittel im Arbeitsablauf am Arbeitsplatz in einer Arbeitsumgebung unter den Bedingungen dieses Arbeitssystems zusammen.
 
 ## E
 * **E-Portfolio**<br/>Ein E-Portfolio ist eine persönliche, strukturierte und digitale Informationssammlung, die Lernziele und -prozesse im lebenslangen Lernen unterstützt und dabei erworbenes Wissen und Fähigkeiten veranschaulicht.
