@@ -63,6 +63,7 @@
 
 ## T
 * **Toolset**
+* **True North**<br/>Der "wahre Norden" (true north) ist das langfristige Ziel (auch Vision genannt), an dem sich jährliche Ziele und konkrete Verbesserungsaktivitäten orientieren.
 
 ## V
 * **Vision**<br/>Die Vision beschreibt den zukünftigen Zustand einer Organisation und ihrer Umwelt, unabhängig davon, wie diesser erreicht wird (Business Motivation Model).
