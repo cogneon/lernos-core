@@ -35,7 +35,7 @@
 * **lernOS Rad**
 * **Lernpfad**
 * **Lernsprint**
-* **Lernzirkel**<br/>Eine Gruppe von 4-5 Personen in der sich die Mitglieder gegenseitig mit Feedback, Erfahrung, Wissenund Reflexion helfen. Die Circle-Mitglieder treffen sich wöchentlich und folgen dabei einem vorgegebenen Ablauf, der den Lern- und Entwicklungsprozess  strukturiert.
+* **Lernzirkel**<br/>Eine Gruppe von 4-5 Personen in der sich die Mitglieder gegenseitig mit Feedback, Erfahrung, Wissen und Reflexion helfen. Die Circle-Mitglieder treffen sich wöchentlich und folgen dabei einem vorgegebenen Ablauf, der den Lern- und Entwicklungsprozess  strukturiert.
 
 
 ## M
