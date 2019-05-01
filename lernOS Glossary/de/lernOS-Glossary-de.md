@@ -73,7 +73,9 @@ Die Abkürzung steht für volatility, uncertainty, complexity und ambiguity.
 
 ## W
 * **Wissen**
-* **Working Out Loud (WOL)**
+* **Working Out Loud**<br/>Working Out Loud (WOL) ist eine Arbeitsweise, bei der Arbeitsstände und -ergebnisse offen einsehbar sind (z.B. Wiki, offene Dateiablage) und über den Arbeitsfortschritt offen erzählt wird (z.B. Blog, Microblog).
+* **Working Out Loud Lernprogramm**<br/>Das Working Out Loud Lernprogramm von John Stepper ist ein 12-wöchiger Lernpfad, mit dem Einsteiger*innen die WOL Arbeitsweise erlernen können.
+
 
 ## Z
 * **Ziel**<br/>Result to be achieved (ISO 9001:2015).
