@@ -14,6 +14,14 @@ Als Online-Community-Plattform wird [CONNECT](https://community.cogneon.de) genu
 ## Ich bin lernOS Neuling, wo fange ich an?
 Der beste Einstiegspunkt für Neulinge ist der [lernOS for You Leitfaden](https://de.slideshare.net/cogneon/lernos-for-you-leitfaden-version-13). Am besten du suchst dir mit dem [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder) noch 3-4 Gleichgesinnte und lernst lernOS in einem 13-wöchigen Sprint mit ca. 25 Stunden Aufwand kennen.
 
+## In welchem Alter kann ich mit lernOS beginnen?
+
+## Was ist der Unterschied zwischen einem lernOS Circle und einem lernOS Sprint?
+Ein lernOS Sprint ist ein Zeitabschnitt von 13 Wochen, i.d.R. die Quartale eines Jahres. Die (Lern-)Ziele für eine Sprint kann man alleine verfolgen (Selbststudium, Autodidakt) oder gemeinsam mit 3-4 anderen Personen in einem lernOS Circle.
+
+## Warum dauert ein lernOS Sprint 13 Wochen?
+Die 13 Wochen teilen ein Kalenderjahr in vier lernOS Sprints. Diese Taktung wird auch bei [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) für die agile Zielplanung auf den Ebenen Organisation, Teams und Individuen verwendet.
+
 ## lernOS steht unter einer Creative Commons CC BY Lizenz, was kann ich mit den Inhalten tun?
 Gemäß der [Definition von Offenheit](http://opendefinition.org) kannst du lernOS Inhalte unabhängig vom Einsatzzweck (privat, im Unternehmen, kommerziell) offen zugreifen, diese modifizieren und wieder veröffentlichen.
 
