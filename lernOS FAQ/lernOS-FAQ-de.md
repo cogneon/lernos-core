@@ -6,7 +6,10 @@ Das Verb "lernos" ist die Zukunftsform von "Lernen" auf Esperanto (ich/wir werde
 Eine deutschsprachige Übersicht befindet sich unter [cogneon.de/lernos](https://cogneon.de/lernos), eine englischsprachige unter [lernos.org](https://lernos.org).
 
 ## Wie bekomme ich die aktuellsten Entwicklungen bei lernOS mit?
-Du kannst [@lern_os](https://twitter.com/lern_os) auf Twitter folgen und/oder dich in den lernOS Newsletter [Keep Calm & Learn On](https://cogneon.de/newsletter) eintragen.
+Du kannst [@lern_os](https://twitter.com/lern_os) auf Twitter folgen, dich in den lernOS Newsletter [Keep Calm & Learn On](https://cogneon.de/newsletter) eintragen und/oder den [lernOS on Air Podcast](https://cogneon.de/loa) abonnieren.
+
+## Wo kann ich mich mit anderen zu lernOS austauschen?
+Als Online-Community-Plattform wird [CONNECT](https://community.cogneon.de) genutzt. Dort kann man sich kostenfrei anmelden. Zusätzlich werden in verschiedenen Orten lernOS Meetups angeboten (z.B. [in Nürnberg](https://cogneon.de/kalender/), [in Wien](https://www.meetup.com/de-DE/funkensprung_lernOS/)). Wer Lust und Zeit hat, kann gerne weitere Meetups gründen. Gerne verlinken wir diese hier.
 
 ## Ich bin lernOS Neuling, wo fange ich an?
 Der beste Einstiegspunkt für Neulinge ist der [lernOS for You Leitfaden](https://de.slideshare.net/cogneon/lernos-for-you-leitfaden-version-13). Am besten du suchst dir mit dem [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder) noch 3-4 Gleichgesinnte und lernst lernOS in einem 13-wöchigen Sprint mit ca. 25 Stunden Aufwand kennen.
