@@ -14,14 +14,16 @@ Download the lernOS Guide and additional material below and get started now! If 
 The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
 [@simondueckert](https://twitter.com/simondueckert)
 
-# lernOS Resources
-The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos). From version 1.2 onwards ZIP files for DE and EN are the same.
+# lernOS for You Guide
+The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/cogneon/lernos-for-you). From version 1.2 onwards ZIP files for DE and EN are the same.
 
-| Language | EN | DE |
-| -------- | ------------ | ------------- |
-| Version 1.2 | [PDF](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-for-You-en.pdf), [ZIP](https://github.com/simondueckert/lernos/archive/v1.2.zip), [Slideshare](https://www.slideshare.net/simon.dueckert/lernos-guide-for-you-cc-by-version-12) | [PDF](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de.pdf), [ZIP](https://github.com/simondueckert/lernos/archive/v1.2.zip), [Slideshare](https://www.slideshare.net/simon.dueckert/lernos-leitfaden-fr-dich-cc-by-version-12) | 
-| Version 1.1 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54411) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54408) (16 MB) |
-| Version 1.0 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54618) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54621) (17 MB) |
+| Version | Download |
+| -------- | ------------ |
+| Version 1.4 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.4) |
+| Version 1.3 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.3) |
+| Version 1.2 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.2) |
+| Version 1.1 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.1) |
+| Version 1.0 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.0) |
 
 # lernOS Events
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
