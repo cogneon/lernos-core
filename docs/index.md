@@ -16,8 +16,8 @@ Download the lernOS Guide and additional material below and get started now! If 
 The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
 [@simondueckert](https://twitter.com/simondueckert)
 
-# lernOS for You Guide
-The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/cogneon/lernos-for-you).
+# lernOS  Guides
+The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repositories](https://github.com/cogneon/).
 
 # lernOS Events
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
