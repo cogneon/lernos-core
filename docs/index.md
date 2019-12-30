@@ -15,19 +15,12 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 [@simondueckert](https://twitter.com/simondueckert)
 
 # lernOS for You Guide
-The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/cogneon/lernos-for-you). From version 1.2 onwards ZIP files for DE and EN are the same.
-
-| Version | Download |
-| -------- | ------------ |
-| Version 1.4 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.4) |
-| Version 1.3 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.3) |
-| Version 1.2 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.2) |
-| Version 1.1 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.1) |
-| Version 1.0 | [ZIP](https://github.com/cogneon/lernos-for-you/releases/tag/v1.0) |
+The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/cogneon/lernos-for-you).
 
 # lernOS Events
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
 
+* **2020-06-23/24:** 2nd lernOS Rockstars Camp in Bonn/Germany. Info and Tickets not available yet.
 * **2019-06-26:** 1st lernOS Rockstars Camp in Munich/Germany. Infos and Tickets at [cogneon.de/loscamp](https://cogneon.de/loscamp)
 * **2019-03-28 (03:30-04:15PM CET):** lOScast 05 - lernOS Version 1.2 Release as Session (in German) at the Corporate Learning Camp ([Recording](https://www.youtube.com/watch?v=vrxdVwMOx7A), [Slides](https://media.cogneon.de/index.php/s/mMjw2aiMfFziD8Z/download))
 * **2018-12-17:** lOScast 04 - lernOS Version 1.1 Release ([Recording](https://youtu.be/mlY9BvqPnVs), [Slides](https://media.cogneon.de/index.php/s/yK8DdMh5GcoFtkB/download))
