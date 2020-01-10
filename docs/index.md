@@ -5,7 +5,7 @@ layout: default
 ![lernOS Logo](https://github.com/simondueckert/lernos-core/raw/master/images/lernOS-logo-400px.png)
 <br />
 
-**Hint:** Find German information about lernOS at [https://cogneon.de/lernos](cogneon.de/lernos).
+**Hint:** Find German information about lernOS at [cogneon.de/lernos](https://cogneon.de/lernos).
 
 lernOS is a self-management method for people living and working in the 21st century. To be successful you have to learn, organize, and develop yourself on an ongoing basis. No matter if you are a teenager, a student, a subject matter expert, or a manager. lernOS integrates elements from methods like [Personal Knowledge Management]() (PKM) [Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR), [Getting Things Done](https://gettingthingsdone.com) (GTD), [Working Out Loud](https://workingoutloud.com) (WOL), and [Scrum](https://www.scrumguides.org/) in an integrated approach.
 
