@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-*Language: en, [de](/de/)*
+*Language: en, [de](/lernos-core/de/)*
 
 ![lernOS Logo](https://github.com/cogneon/lernos-core/raw/master/images/lernOS-logo-400px.png)
 <br />
