@@ -17,7 +17,7 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 [@simondueckert](https://twitter.com/simondueckert)
 
 # lernOS  Guides
-The lernOS content can be downloaded as guides in different formats and languages. The **lernOS Core** provides guidelines for the three layers individuals, teams, and organizations. The lernOS Core consists of three guides:
+The **lernOS Core** provides guidelines for the three layers individuals, teams, and organizations. The lernOS content can be downloaded as guides in different formats and languages. The lernOS Core consists of three guides:
 
 * [lernOS for You](https://github.com/cogneon/lernos-for-you)
 * [lernOS for Teams](https://github.com/cogneon/lernos-for-teams)
@@ -27,13 +27,16 @@ The **lernOS Toolbox** provides further guides for tools and methods often used 
 
 # lernOS FAQ
 ## Where do I find the PDF, WORD, HTML etc. files?
-Download the ZIP-File and extract it on your computer. In the folder with the guide you'll find subfolders for the available language versions (en, de etc.) with the files in it.
+Download the ZIP-File from the repository and extract it on your computer. In the folder with the guide you'll find subfolders for the available language versions (en, de etc.) with the files in it.
 
 ## Can I read the lernOS Guides on an ebook reader like the kindle?
 Yes. You have to get the email adress of your kindle in the preferences. Then send the mobi version to that email adress and the guide will appear on your kindle device or app. Other devices might need the epub version. Check the documentation of your device.
 
 ## Can I use and modify lernOS?
 Yes. You can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
+
+## Can I provide commercial products and services with lernOS in the name?
+No. Individual products and services must not contain the term "lernOS" in their name (e.g. "lernOS Learning Workshop"). It's like Chromium (open source web browser core) and Chrome (a browser product of google). Chromium is the openly and freely available source code for web browsers. If you create a product like Chrome (Google) or Edge (Microsoft) these products have to have different names.
 
 # License
 lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose (private/business, commercial/non-commercial).
